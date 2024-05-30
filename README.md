@@ -10,7 +10,8 @@
     
     d. Modele el caso usando diagrama de casos UML y VP.
     
-    e. Codifique su solución, considerando el número mínimo de clases y test necesarios para su implementación y pruebas mínimas de funcionamiento.
+    e. Codifique su solución, considerando el número mínimo de clases y test necesarios para 
+       su implementación y pruebas mínimas de funcionamiento.
 
 ## 2. Desarrollo
     a.  Clases presentes:
@@ -22,7 +23,7 @@
        y los metodos pueden ser: lanzarDado() y el getter de el atributo caraSuperior.
        para la clase calculadora tiene segun lo enuciado solo deberia de ttner un metodo
        que permita sumar los dos dados lanzados. Para la clase JuegoDados no es necesario
-          tener atributos ni metodos.
+       tener atributos ni metodos.
 
 
     c. Relaciones:
