@@ -31,7 +31,8 @@
         - La clase Calculadora tiene una relacion de agregacion con la clase 
 
     d. Diagrama de casos UML en VP:
-![image](https://github.com/Toritou/Juego-Dados/assets/163322706/a6e09a25-326c-42cb-994d-07e3ee1a0c94)
+![image](https://github.com/Toritou/Juego-Dados/assets/163322706/b135c14d-ac39-4ddc-af83-c64b763d3773)
+
 
     e. Codificacion:
         - Se crearon las clases Dado, Calculadora y JuegoDados
