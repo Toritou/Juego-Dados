@@ -30,11 +30,38 @@
         - La clase Calculadora tiene una relacion de agregacion con la clase 
 
     d. Diagrama de casos UML en VP:
-
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/a6e09a25-326c-42cb-994d-07e3ee1a0c94)
 
     e. Codificacion:
         - Se crearon las clases Dado, Calculadora y JuegoDados
         - Se crearon los test para cada una
         (Codigo Autogenerado)
+        -Calculadora
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/bd5f67fb-ed5f-488e-9360-ca6868f97a05)
+
+        -Dado
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/e483dbf6-7ba5-4574-a861-53430840e9bb)
+
+        -JuegoDados
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/d1252257-6d50-4de8-9cb7-f79da4b85511)
 
 ## 3. Codigo fuente
+        -JuegoDados
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/f2d67490-49be-4b56-9e87-66604a453b82)
+
+        -Dado
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/14954a5b-d7ee-4036-bb44-8f1a571a06d5)
+
+        -Calculadora
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/c0b60b15-57a8-4eee-9bd5-bb2e73af15a3)
+
+## 4. Prueba Unitaria
+        ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/49ffde7a-2c3f-417a-9751-654fa695e65d)
+
+        
+
+        
+
+        
+
+    
