@@ -36,6 +36,7 @@
         - Se crearon las clases Dado, Calculadora y JuegoDados
         - Se crearon los test para cada una
         (Codigo Autogenerado)
+        
         -Calculadora
 ![image](https://github.com/Toritou/Juego-Dados/assets/163322706/bd5f67fb-ed5f-488e-9360-ca6868f97a05)
 
